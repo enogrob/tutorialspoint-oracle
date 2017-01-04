@@ -20,7 +20,7 @@ PL/SQL Tutorial
 [x] Overview
 [x] Environment
 [x] Basic Syntax
-[ ] Data Types
+[x] Data Types
 [ ] Variables
 [ ] Constants
 [ ] Operators
