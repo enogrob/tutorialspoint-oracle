@@ -22,7 +22,7 @@ PL/SQL Tutorial
 [x] Basic Syntax
 [x] Data Types
 [x] Variables
-[ ] Constants
+[x] Constants
 [ ] Operators
 [ ] Conditions
 [ ] Loops
