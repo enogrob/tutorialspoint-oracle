@@ -24,7 +24,7 @@ PL/SQL Tutorial
 [x] Variables
 [x] Constants
 [x] Operators
-[ ] Conditions
+[x] Conditions
 [ ] Loops
 [ ] Strings
 [ ] Arrays
